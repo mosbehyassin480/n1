@@ -1,0 +1,56 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 839 >>
+stream
+BT
+/F1 14 Tf
+50 750 Td
+18 TL
+(TEK-UP CODE CLUB - REGLEMENT DU HACKATHON ANNUEL) Tj T*
+(================================================) Tj T*
+T*
+(Article 1 - Participation et eligibilite) Tj T*
+(Le hackathon est ouvert a tous les etudiants de TEK-UP.) Tj T*
+(Les equipes sont composees de 3 a 5 personnes.) Tj T*
+T*
+(Article 2 - Duree de la competition) Tj T*
+(L epreuve se deroule sur une duree continue de 24 heures.) Tj T*
+(Tout code soumis doit etre produit durant l evenement.) Tj T*
+T*
+(Article 3 - Criteres d evaluation) Tj T*
+(Les projets sont evalues sur l originalite, la qualite) Tj T*
+(technique, l ergonomie et la presentation finale.) Tj T*
+T*
+(Article 4 - Ethique et fair-play) Tj T*
+(Le respect mutuel et l entraide sont obligatoires.) Tj T*
+T*
+(Fait a Ariana, session 2026.) Tj T*
+(Le Bureau du TEK-UP Code Club) Tj T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001131 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1201
+%%EOF
